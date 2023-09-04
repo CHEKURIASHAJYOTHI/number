@@ -1,0 +1,18 @@
+ body{
+    background-image: url(num.jpg);
+    text-align: center;
+    background-repeat: repeat;
+}
+button{
+    border-color: rgb(168, 92, 92);
+    box-shadow: 2px 2px;
+}
+#guessInput{
+    border-color: brown;
+    box-shadow: 2px 2px;
+    
+}
+h2{
+    text-shadow: 3px 3px white;
+    color:black;
+}
